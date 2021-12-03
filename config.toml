@@ -1,0 +1,11 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+
+theme = "anatole"
+enableEmoji = true
+
+[params]
+title = " A Tech Enthusian"
+author = "Beellz"
+description = "Automatic Blogging from Github"
+
