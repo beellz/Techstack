@@ -8,4 +8,5 @@ enableEmoji = true
 title = " A Tech Enthusian"
 author = "Beellz"
 description = "Automatic Blogging from Github"
-
+profilePicture = "images/profile_image.png"
+mainSection = ["blog"]
