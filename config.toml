@@ -1,6 +1,5 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://beellz.github.io/Techstack/'
 languageCode = 'en-us'
-
 theme = "anatole"
 enableEmoji = true
 
