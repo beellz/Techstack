@@ -1,4 +1,4 @@
-baseURL = 'http://techstack.tk'
+baseURL = 'https://beellz.github.io/Techstack/'
 languageCode = 'en-us'
 theme = "anatole"
 enableEmoji = true
