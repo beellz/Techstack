@@ -2,6 +2,7 @@
 title: "My First Blog"
 date: 2022-03-12T23:16:37+05:30
 draft: false
+thumbnail: "images/firstblog.jpg"
 ---
 
 

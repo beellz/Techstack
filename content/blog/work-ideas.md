@@ -2,6 +2,7 @@
 title: "Work Ideas"
 date: 2022-03-13T00:05:04+05:30
 draft: False
+thumbnail: "images/workidea.jpg"
 ---
 
 # WORK IDEAS
